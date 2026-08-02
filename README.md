@@ -1,134 +1,47 @@
 <div align="center">
 
-# 𝘚𝘢𝘵𝘺𝘢𝘫𝘪𝘵 𝘗𝘢𝘵𝘪𝘭
-
-### Building thoughtful digital experiences.
-
-<br>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
-  <img src="./assets/dark.svg" width="100%" alt="Hero Banner">
+  <img src="./assets/dark.svg" alt="Satyajit Patil — Creative Developer, Full Stack Engineer, Design Engineer, AI Builder" width="100%">
 </picture>
-
-<br>
-
-[Portfolio](https://your-portfolio.com) ·
-[LinkedIn](https://linkedin.com/in/your-profile) ·
-[Email](mailto:hello@example.com)
 
 </div>
 
----
+<br>
 
-# About
+<div align="center">
+  <img src="./assets/about.svg" alt="About" width="100%">
+</div>
 
-I'm a developer and designer focused on creating products that are fast, intuitive, and visually refined.
+<br>
 
-I enjoy blending engineering with design, building interfaces where every interaction feels intentional.
+<div align="center">
+  <img src="./assets/projects.svg" alt="Selected Projects" width="100%">
+</div>
 
-Currently exploring AI, frontend architecture, motion design, and premium digital experiences.
+<br>
 
----
+<div align="center">
+  <img src="./assets/stack.svg" alt="Current Stack" width="100%">
+</div>
 
-# Selected Work
-
-### PDFX
-
-Document tools designed for speed and simplicity.
-
-**Next.js · TypeScript · Tailwind**
-
----
-
-### YATYPE
-
-A minimal writing experience inspired by modern editorial interfaces.
-
-**React · Firebase**
-
----
-
-### SVG Optima
-
-SVG optimization powered by WebAssembly.
-
-**Next.js · Rust · WASM**
-
----
-
-### UniSketch
-
-Offline-first collaborative sketching platform.
-
-**Flutter · Supabase**
-
----
-
-# Toolbox
-
-```txt
-Frontend
-
-React
-Next.js
-TypeScript
-Tailwind CSS
-GSAP
-Three.js
-
-Backend
-
-Node.js
-Express
-Supabase
-Firebase
-
-Design
-
-Figma
-Photoshop
-
-Tools
-
-Git
-Docker
-Linux
-Vercel
-```
-
----
-
-# GitHub
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sxtyx-bugs&show_icons=true&hide_border=true&theme=transparent">
-
-<img width="48%" src="https://streak-stats.demolab.com?user=sxtyx-bugs&theme=transparent&hide_border=true">
-
-</p>
-
-<p align="center">
-
-<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=sxtyx-bugs&theme=github-compact&hide_border=true">
-
-</p>
-
----
-
-# Currently
-
-* Building AI-powered products
-* Designing minimal interfaces
-* Learning deeper frontend architecture
-* Contributing to open source
-
----
+<br>
 
 <div align="center">
 
-*"Design is how something feels, not just how it looks."*
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=satyajitpatil&show_icons=true&hide_border=true&hide_title=true&bg_color=FFFFFF&title_color=0F172A&text_color=475569&icon_color=3B82F6&hide=contribs">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=satyajitpatil&show_icons=true&hide_border=true&hide_title=true&bg_color=0F1115&title_color=F8FAFC&text_color=94A3B8&icon_color=3B82F6&hide=contribs" alt="GitHub stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=satyajitpatil&layout=compact&hide_border=true&hide_title=true&bg_color=FFFFFF&title_color=0F172A&text_color=475569&langs_count=8">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyajitpatil&layout=compact&hide_border=true&hide_title=true&bg_color=0F1115&title_color=F8FAFC&text_color=94A3B8&langs_count=8" alt="Top languages">
+</picture>
 
+</div>
+
+<br>
+
+<div align="center">
+  <img src="./assets/footer.svg" alt="Footer" width="100%">
 </div>
