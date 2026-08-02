@@ -30,12 +30,12 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=satyajitpatil&show_icons=true&hide_border=true&hide_title=true&bg_color=FFFFFF&title_color=0F172A&text_color=475569&icon_color=3B82F6&hide=contribs">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=satyajitpatil&show_icons=true&hide_border=true&hide_title=true&bg_color=0F1115&title_color=F8FAFC&text_color=94A3B8&icon_color=3B82F6&hide=contribs" alt="GitHub stats">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sxtyx-bugs&show_icons=true&hide_border=true&hide_title=true&bg_color=FFFFFF&title_color=111214&text_color=6B7078&icon_color=8A8F98&hide=contribs">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sxtyx-bugs&show_icons=true&hide_border=true&hide_title=true&bg_color=0F1115&title_color=F5F5F6&text_color=8A8F98&icon_color=9BA0A8&hide=contribs" alt="GitHub stats">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=satyajitpatil&layout=compact&hide_border=true&hide_title=true&bg_color=FFFFFF&title_color=0F172A&text_color=475569&langs_count=8">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyajitpatil&layout=compact&hide_border=true&hide_title=true&bg_color=0F1115&title_color=F8FAFC&text_color=94A3B8&langs_count=8" alt="Top languages">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sxtyx-bugs&layout=compact&hide_border=true&hide_title=true&bg_color=FFFFFF&title_color=111214&text_color=6B7078&langs_count=8">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxtyx-bugs&layout=compact&hide_border=true&hide_title=true&bg_color=0F1115&title_color=F5F5F6&text_color=8A8F98&langs_count=8" alt="Top languages">
 </picture>
 
 </div>
